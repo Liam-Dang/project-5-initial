@@ -44,7 +44,6 @@ public class SortingUtility {
         } while (swapped);
     }
 
-
     public static <T extends Comparable<T>> void shellSort(T[] a) {
 
         // TODO implement Shell Sort here
